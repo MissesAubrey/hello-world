@@ -1,3 +1,2 @@
 # hello-world
-New Things
-New to coding and tech
+New Things- New to coding and tech
